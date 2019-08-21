@@ -9,7 +9,7 @@
       sm8
       md6
     >
-      <v-img :src="imgsrc" width="120" height="120"/>
+      <v-img src="/v.png" width="120" height="120"/>
     </v-flex>
   </v-layout>
 </template>
